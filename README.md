@@ -1,5 +1,24 @@
-## Hi there 👋
+## Hola, soy Karen 👋
 
+Desarrolladora frontend enfocada en la creación de aplicaciones web y móviles utilizando Angular, Ionic y React.
+
+## 🚀 Sobre mí
+- Experiencia en desarrollo de aplicaciones web y móviles
+- Enfoque en interfaces dinámicas, responsivas y mantenibles
+- Interés en seguir creciendo como desarrolladora
+
+## 🛠️ Tecnologías
+- Angular
+- React
+- TypeScript
+- SCSS / CSS
+- Ionic
+- Firebase
+- Git & GitHub
+
+  ## 📫 Contáctame
+- LinkedIn: [https://www.linkedin.com/in/karen-quiceno-dev]
+- Email: [karen312570031@gmail.com]
 <!--
 **ksquiceno1/ksquiceno1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
